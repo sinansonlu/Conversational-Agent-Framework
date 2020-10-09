@@ -1,0 +1,2214 @@
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C0_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Greetings, my name is James.</voice-transformation></speak>
+E1_C0_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Where have you come from?</voice-transformation></speak>
+E1_C0_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >I am coming from Spain to this beautiful country.</voice-transformation></speak>
+E1_C0_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >May I have your passport?</voice-transformation></speak>
+E1_C0_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Sure, my passport is here, at your service.</voice-transformation></speak>
+E1_C0_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C0_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >I plan to attend an annual journalism conference.</voice-transformation></speak>
+E1_C0_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >How long will you stay?</voice-transformation></speak>
+E1_C0_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >I was planning to stay here for a total of 10 days.</voice-transformation></speak>
+E1_C0_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >What is your occupation?</voice-transformation></speak>
+E1_C0_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >I'm a journalist, this is how I earn my living.</voice-transformation></speak>
+E1_C0_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C0_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Of course, I have my return ticket ready, it is here.</voice-transformation></speak>
+E1_C0_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C0_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >I'm grateful, have a nice day officer.</voice-transformation></speak>
+E1_C0_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C1_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Hey. I'm John.</voice-transformation></speak>
+E1_C1_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Where have you come from?</voice-transformation></speak>
+E1_C1_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >I came from Spain.</voice-transformation></speak>
+E1_C1_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >May I have your passport?</voice-transformation></speak>
+E1_C1_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >It is here.</voice-transformation></speak>
+E1_C1_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C1_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >It is to spend my vacation.</voice-transformation></speak>
+E1_C1_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >How long will you stay?</voice-transformation></speak>
+E1_C1_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >21 days.</voice-transformation></speak>
+E1_C1_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >What is your occupation?</voice-transformation></speak>
+E1_C1_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >No job currently.</voice-transformation></speak>
+E1_C1_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Do you have a budget for your expenses and return?</voice-transformation></speak>
+E1_C1_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Sure, I have.</voice-transformation></speak>
+E1_C1_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Please buy your return ticket as soon as possible.</voice-transformation></speak>
+E1_C1_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Oh, ok. I will buy it.</voice-transformation></speak>
+E1_C1_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C1_L16_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Ok, bye.</voice-transformation></speak>
+E1_C1_L17_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C2_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Hello, my name is Robert.</voice-transformation></speak>
+E1_C2_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Where have you come from?</voice-transformation></speak>
+E1_C2_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >I did come from Italy.</voice-transformation></speak>
+E1_C2_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >May I have your passport?</voice-transformation></speak>
+E1_C2_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Ok, here is my passport.</voice-transformation></speak>
+E1_C2_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C2_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >I came with the aim to attend a cultural event.</voice-transformation></speak>
+E1_C2_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >How long will you stay?</voice-transformation></speak>
+E1_C2_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >I am going to stay for 4 days.</voice-transformation></speak>
+E1_C2_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >What is your occupation?</voice-transformation></speak>
+E1_C2_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >I am a computer engineer.</voice-transformation></speak>
+E1_C2_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C2_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Yes, my return ticket is here.</voice-transformation></speak>
+E1_C2_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C2_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Thank you very much. Have a good day.</voice-transformation></speak>
+E1_C2_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C3_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Oh... My name is Michael.</voice-transformation></speak>
+E1_C3_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Where have you come from?</voice-transformation></speak>
+E1_C3_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Um, well, I came from Italy.</voice-transformation></speak>
+E1_C3_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >May I have your passport?</voice-transformation></speak>
+E1_C3_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Yes, it should be here somewhere... Ah, here it is.</voice-transformation></speak>
+E1_C3_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C3_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >To study university... To study.</voice-transformation></speak>
+E1_C3_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >How long will you stay?</voice-transformation></speak>
+E1_C3_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >I guess it will be until 18th of September.</voice-transformation></speak>
+E1_C3_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >What is your occupation?</voice-transformation></speak>
+E1_C3_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Ah... I'm a student.</voice-transformation></speak>
+E1_C3_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C3_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Oh, where was it? Yes, it is here.</voice-transformation></speak>
+E1_C3_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C3_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Oh, thanks. See you later... I mean, have a good day.</voice-transformation></speak>
+E1_C3_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C4_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Hi, I'm William.</voice-transformation></speak>
+E1_C4_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Where have you come from?</voice-transformation></speak>
+E1_C4_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >I came from England officer, it's a lovely country.</voice-transformation></speak>
+E1_C4_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >May I have your passport?</voice-transformation></speak>
+E1_C4_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Of course officer, it's here.</voice-transformation></speak>
+E1_C4_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C4_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >I will visit famous places.</voice-transformation></speak>
+E1_C4_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >How long will you stay?</voice-transformation></speak>
+E1_C4_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >I will stay for a week.</voice-transformation></speak>
+E1_C4_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >What is your occupation?</voice-transformation></speak>
+E1_C4_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >I'm a doctor, officer.</voice-transformation></speak>
+E1_C4_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C4_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >My ticket is here.</voice-transformation></speak>
+E1_C4_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C4_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Thanks friend, have a very nice day.</voice-transformation></speak>
+E1_C4_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C5_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >I am David.</voice-transformation></speak>
+E1_C5_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Where have you come from?</voice-transformation></speak>
+E1_C5_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >England.</voice-transformation></speak>
+E1_C5_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >May I have your passport?</voice-transformation></speak>
+E1_C5_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Yes, here.</voice-transformation></speak>
+E1_C5_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C5_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >To visit a friend.</voice-transformation></speak>
+E1_C5_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >How long will you stay?</voice-transformation></speak>
+E1_C5_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >3 days.</voice-transformation></speak>
+E1_C5_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >What is your occupation?</voice-transformation></speak>
+E1_C5_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Photographer.</voice-transformation></speak>
+E1_C5_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C5_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Yes, here.</voice-transformation></speak>
+E1_C5_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C5_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Thanks.</voice-transformation></speak>
+E1_C5_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C6_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Hello, thank you. My name is Richard.</voice-transformation></speak>
+E1_C6_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Where have you come from?</voice-transformation></speak>
+E1_C6_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >I came from Germany.</voice-transformation></speak>
+E1_C6_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >May I have your passport?</voice-transformation></speak>
+E1_C6_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Yes, it is here.</voice-transformation></speak>
+E1_C6_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C6_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >My purpose is to attend a meeting.</voice-transformation></speak>
+E1_C6_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >How long will you stay?</voice-transformation></speak>
+E1_C6_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >I will stay for 9 days, dear officer.</voice-transformation></speak>
+E1_C6_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >What is your occupation?</voice-transformation></speak>
+E1_C6_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >I'm a dentist, officer.</voice-transformation></speak>
+E1_C6_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C6_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >I have it here officer.</voice-transformation></speak>
+E1_C6_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C6_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Thank you very much. Have a very good day.</voice-transformation></speak>
+E1_C6_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C7_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >I'm Charles.</voice-transformation></speak>
+E1_C7_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Where have you come from?</voice-transformation></speak>
+E1_C7_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >If it is necessary, from Germany.</voice-transformation></speak>
+E1_C7_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >May I have your passport?</voice-transformation></speak>
+E1_C7_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Ok...</voice-transformation></speak>
+E1_C7_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C7_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Well, I want to spend my vacation here, if there is no problem with that.</voice-transformation></speak>
+E1_C7_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >How long will you stay?</voice-transformation></speak>
+E1_C7_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >The expected question, eh? It is for 10 days.</voice-transformation></speak>
+E1_C7_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >What is your occupation?</voice-transformation></speak>
+E1_C7_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Well, accountant it is.</voice-transformation></speak>
+E1_C7_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C7_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Well, I have it. If you must look at it, here.</voice-transformation></speak>
+E1_C7_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C7_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >You did your job I guess. Later...</voice-transformation></speak>
+E1_C7_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C8_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Um... Hi! I'm... Joseph.</voice-transformation></speak>
+E1_C8_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Where have you come from?</voice-transformation></speak>
+E1_C8_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Ah... I... I came from Brazil.</voice-transformation></speak>
+E1_C8_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >May I have your passport?</voice-transformation></speak>
+E1_C8_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Um... Yes, please take it. Here.</voice-transformation></speak>
+E1_C8_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C8_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Ah, I... I will attend a conference. I visit because of it.</voice-transformation></speak>
+E1_C8_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >How long will you stay?</voice-transformation></speak>
+E1_C8_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Ah, I think it was written on the passport somewhere... It should be until 19th or 20th of July, I believe...</voice-transformation></speak>
+E1_C8_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >What is your occupation?</voice-transformation></speak>
+E1_C8_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Oh, I... I'm a mathematician.</voice-transformation></speak>
+E1_C8_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C8_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Return ticket? Wait, what? I... Oh no, I don't have that!</voice-transformation></speak>
+E1_C8_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Do you have a budget for your expenses and return?</voice-transformation></speak>
+E1_C8_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Umm, I'm not sure... I think I have enough, but is it? Hmmm... Well, I think I have enough budget.</voice-transformation></speak>
+E1_C8_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Please buy your return ticket as soon as possible.</voice-transformation></speak>
+E1_C8_L16_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >I... I am going to buy it. I will buy it as soon as possible.</voice-transformation></speak>
+E1_C8_L17_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C8_L18_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Thanks... Thank you for everything... So, see you... Bye!</voice-transformation></speak>
+E1_C8_L19_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C9_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Hello, my name is Thomas.</voice-transformation></speak>
+E1_C9_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Where have you come from?</voice-transformation></speak>
+E1_C9_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >I came from Brazil.</voice-transformation></speak>
+E1_C9_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >May I have your passport?</voice-transformation></speak>
+E1_C9_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Sure, here is my passport.</voice-transformation></speak>
+E1_C9_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C9_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >I will attend a meeting.</voice-transformation></speak>
+E1_C9_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >How long will you stay?</voice-transformation></speak>
+E1_C9_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >I will stay for 2 days.</voice-transformation></speak>
+E1_C9_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >What is your occupation?</voice-transformation></speak>
+E1_C9_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >I'm an attorney.</voice-transformation></speak>
+E1_C9_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C9_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Yes, I have my return ticket, here it is.</voice-transformation></speak>
+E1_C9_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C9_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Thank you, have a good day.</voice-transformation></speak>
+E1_C9_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C0_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Greetings, my name is James.</voice-transformation></speak>
+E1_C0_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Where have you come from?</voice-transformation></speak>
+E1_C0_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >I am coming from Spain to this beautiful country.</voice-transformation></speak>
+E1_C0_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >May I have your passport?</voice-transformation></speak>
+E1_C0_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Sure, my passport is here, at your service.</voice-transformation></speak>
+E1_C0_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C0_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >I plan to attend an annual journalism conference.</voice-transformation></speak>
+E1_C0_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >How long will you stay?</voice-transformation></speak>
+E1_C0_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >I was planning to stay here for a total of 10 days.</voice-transformation></speak>
+E1_C0_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >What is your occupation?</voice-transformation></speak>
+E1_C0_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >I'm a journalist, this is how I earn my living.</voice-transformation></speak>
+E1_C0_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C0_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Of course, I have my return ticket ready, it is here.</voice-transformation></speak>
+E1_C0_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C0_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >I'm grateful, have a nice day officer.</voice-transformation></speak>
+E1_C0_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C1_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Hey. I'm John.</voice-transformation></speak>
+E1_C1_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Where have you come from?</voice-transformation></speak>
+E1_C1_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >I came from Spain.</voice-transformation></speak>
+E1_C1_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >May I have your passport?</voice-transformation></speak>
+E1_C1_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >It is here.</voice-transformation></speak>
+E1_C1_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C1_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >It is to spend my vacation.</voice-transformation></speak>
+E1_C1_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >How long will you stay?</voice-transformation></speak>
+E1_C1_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >21 days.</voice-transformation></speak>
+E1_C1_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >What is your occupation?</voice-transformation></speak>
+E1_C1_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >No job currently.</voice-transformation></speak>
+E1_C1_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Do you have a budget for your expenses and return?</voice-transformation></speak>
+E1_C1_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Sure, I have.</voice-transformation></speak>
+E1_C1_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Please buy your return ticket as soon as possible.</voice-transformation></speak>
+E1_C1_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Oh, ok. I will buy it.</voice-transformation></speak>
+E1_C1_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C1_L16_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Ok, bye.</voice-transformation></speak>
+E1_C1_L17_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C2_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Hello, my name is Robert.</voice-transformation></speak>
+E1_C2_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Where have you come from?</voice-transformation></speak>
+E1_C2_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >I did come from Italy.</voice-transformation></speak>
+E1_C2_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >May I have your passport?</voice-transformation></speak>
+E1_C2_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Ok, here is my passport.</voice-transformation></speak>
+E1_C2_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C2_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >I came with the aim to attend a cultural event.</voice-transformation></speak>
+E1_C2_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >How long will you stay?</voice-transformation></speak>
+E1_C2_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >I am going to stay for 4 days.</voice-transformation></speak>
+E1_C2_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >What is your occupation?</voice-transformation></speak>
+E1_C2_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >I am a computer engineer.</voice-transformation></speak>
+E1_C2_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C2_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Yes, my return ticket is here.</voice-transformation></speak>
+E1_C2_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C2_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Thank you very much. Have a good day.</voice-transformation></speak>
+E1_C2_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C3_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Oh... My name is Michael.</voice-transformation></speak>
+E1_C3_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Where have you come from?</voice-transformation></speak>
+E1_C3_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Um, well, I came from Italy.</voice-transformation></speak>
+E1_C3_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >May I have your passport?</voice-transformation></speak>
+E1_C3_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Yes, it should be here somewhere... Ah, here it is.</voice-transformation></speak>
+E1_C3_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C3_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >To study university... To study.</voice-transformation></speak>
+E1_C3_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >How long will you stay?</voice-transformation></speak>
+E1_C3_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >I guess it will be until 18th of September.</voice-transformation></speak>
+E1_C3_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >What is your occupation?</voice-transformation></speak>
+E1_C3_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Ah... I'm a student.</voice-transformation></speak>
+E1_C3_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C3_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Oh, where was it? Yes, it is here.</voice-transformation></speak>
+E1_C3_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C3_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Oh, thanks. See you later... I mean, have a good day.</voice-transformation></speak>
+E1_C3_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C4_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Hi, I'm William.</voice-transformation></speak>
+E1_C4_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Where have you come from?</voice-transformation></speak>
+E1_C4_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >I came from England officer, it's a lovely country.</voice-transformation></speak>
+E1_C4_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >May I have your passport?</voice-transformation></speak>
+E1_C4_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Of course officer, it's here.</voice-transformation></speak>
+E1_C4_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C4_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >I will visit famous places.</voice-transformation></speak>
+E1_C4_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >How long will you stay?</voice-transformation></speak>
+E1_C4_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >I will stay for a week.</voice-transformation></speak>
+E1_C4_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >What is your occupation?</voice-transformation></speak>
+E1_C4_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >I'm a doctor, officer.</voice-transformation></speak>
+E1_C4_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C4_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >My ticket is here.</voice-transformation></speak>
+E1_C4_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C4_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Thanks friend, have a very nice day.</voice-transformation></speak>
+E1_C4_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C5_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >I am David.</voice-transformation></speak>
+E1_C5_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Where have you come from?</voice-transformation></speak>
+E1_C5_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >England.</voice-transformation></speak>
+E1_C5_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >May I have your passport?</voice-transformation></speak>
+E1_C5_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Yes, here.</voice-transformation></speak>
+E1_C5_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C5_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >To visit a friend.</voice-transformation></speak>
+E1_C5_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >How long will you stay?</voice-transformation></speak>
+E1_C5_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >3 days.</voice-transformation></speak>
+E1_C5_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >What is your occupation?</voice-transformation></speak>
+E1_C5_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Photographer.</voice-transformation></speak>
+E1_C5_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C5_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Yes, here.</voice-transformation></speak>
+E1_C5_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C5_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Thanks.</voice-transformation></speak>
+E1_C5_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C6_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Hello, thank you. My name is Richard.</voice-transformation></speak>
+E1_C6_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Where have you come from?</voice-transformation></speak>
+E1_C6_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >I came from Germany.</voice-transformation></speak>
+E1_C6_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >May I have your passport?</voice-transformation></speak>
+E1_C6_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Yes, it is here.</voice-transformation></speak>
+E1_C6_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C6_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >My purpose is to attend a meeting.</voice-transformation></speak>
+E1_C6_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >How long will you stay?</voice-transformation></speak>
+E1_C6_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >I will stay for 9 days, dear officer.</voice-transformation></speak>
+E1_C6_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >What is your occupation?</voice-transformation></speak>
+E1_C6_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >I'm a dentist, officer.</voice-transformation></speak>
+E1_C6_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C6_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >I have it here officer.</voice-transformation></speak>
+E1_C6_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C6_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Thank you very much. Have a very good day.</voice-transformation></speak>
+E1_C6_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C7_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >I'm Charles.</voice-transformation></speak>
+E1_C7_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Where have you come from?</voice-transformation></speak>
+E1_C7_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >If it is necessary, from Germany.</voice-transformation></speak>
+E1_C7_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >May I have your passport?</voice-transformation></speak>
+E1_C7_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Ok...</voice-transformation></speak>
+E1_C7_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C7_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Well, I want to spend my vacation here, if there is no problem with that.</voice-transformation></speak>
+E1_C7_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >How long will you stay?</voice-transformation></speak>
+E1_C7_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >The expected question, eh? It is for 10 days.</voice-transformation></speak>
+E1_C7_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >What is your occupation?</voice-transformation></speak>
+E1_C7_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Well, accountant it is.</voice-transformation></speak>
+E1_C7_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C7_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Well, I have it. If you must look at it, here.</voice-transformation></speak>
+E1_C7_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C7_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >You did your job I guess. Later...</voice-transformation></speak>
+E1_C7_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C8_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Um... Hi! I'm... Joseph.</voice-transformation></speak>
+E1_C8_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Where have you come from?</voice-transformation></speak>
+E1_C8_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Ah... I... I came from Brazil.</voice-transformation></speak>
+E1_C8_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >May I have your passport?</voice-transformation></speak>
+E1_C8_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Um... Yes, please take it. Here.</voice-transformation></speak>
+E1_C8_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C8_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Ah, I... I will attend a conference. I visit because of it.</voice-transformation></speak>
+E1_C8_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >How long will you stay?</voice-transformation></speak>
+E1_C8_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Ah, I think it was written on the passport somewhere... It should be until 19th or 20th of July, I believe...</voice-transformation></speak>
+E1_C8_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >What is your occupation?</voice-transformation></speak>
+E1_C8_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Oh, I... I'm a mathematician.</voice-transformation></speak>
+E1_C8_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C8_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Return ticket? Wait, what? I... Oh no, I don't have that!</voice-transformation></speak>
+E1_C8_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Do you have a budget for your expenses and return?</voice-transformation></speak>
+E1_C8_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Umm, I'm not sure... I think I have enough, but is it? Hmmm... Well, I think I have enough budget.</voice-transformation></speak>
+E1_C8_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Please buy your return ticket as soon as possible.</voice-transformation></speak>
+E1_C8_L16_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >I... I am going to buy it. I will buy it as soon as possible.</voice-transformation></speak>
+E1_C8_L17_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C8_L18_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Thanks... Thank you for everything... So, see you... Bye!</voice-transformation></speak>
+E1_C8_L19_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C9_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Hello, my name is Thomas.</voice-transformation></speak>
+E1_C9_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Where have you come from?</voice-transformation></speak>
+E1_C9_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >I came from Brazil.</voice-transformation></speak>
+E1_C9_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >May I have your passport?</voice-transformation></speak>
+E1_C9_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Sure, here is my passport.</voice-transformation></speak>
+E1_C9_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C9_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >I will attend a meeting.</voice-transformation></speak>
+E1_C9_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >How long will you stay?</voice-transformation></speak>
+E1_C9_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >I will stay for 2 days.</voice-transformation></speak>
+E1_C9_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >What is your occupation?</voice-transformation></speak>
+E1_C9_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >I'm an attorney.</voice-transformation></speak>
+E1_C9_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C9_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Yes, I have my return ticket, here it is.</voice-transformation></speak>
+E1_C9_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C9_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Thank you, have a good day.</voice-transformation></speak>
+E1_C9_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C0_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Greetings, my name is James.</voice-transformation></speak>
+E1_C0_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Where have you come from?</voice-transformation></speak>
+E1_C0_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >I am coming from Spain to this beautiful country.</voice-transformation></speak>
+E1_C0_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >May I have your passport?</voice-transformation></speak>
+E1_C0_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Sure, my passport is here, at your service.</voice-transformation></speak>
+E1_C0_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C0_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >I plan to attend an annual journalism conference.</voice-transformation></speak>
+E1_C0_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >How long will you stay?</voice-transformation></speak>
+E1_C0_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >I was planning to stay here for a total of 10 days.</voice-transformation></speak>
+E1_C0_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >What is your occupation?</voice-transformation></speak>
+E1_C0_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >I'm a journalist, this is how I earn my living.</voice-transformation></speak>
+E1_C0_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C0_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Of course, I have my return ticket ready, it is here.</voice-transformation></speak>
+E1_C0_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C0_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >I'm grateful, have a nice day officer.</voice-transformation></speak>
+E1_C0_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C1_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Hey. I'm John.</voice-transformation></speak>
+E1_C1_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Where have you come from?</voice-transformation></speak>
+E1_C1_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >I came from Spain.</voice-transformation></speak>
+E1_C1_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >May I have your passport?</voice-transformation></speak>
+E1_C1_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >It is here.</voice-transformation></speak>
+E1_C1_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C1_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >It is to spend my vacation.</voice-transformation></speak>
+E1_C1_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >How long will you stay?</voice-transformation></speak>
+E1_C1_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >21 days.</voice-transformation></speak>
+E1_C1_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >What is your occupation?</voice-transformation></speak>
+E1_C1_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >No job currently.</voice-transformation></speak>
+E1_C1_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Do you have a budget for your expenses and return?</voice-transformation></speak>
+E1_C1_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Sure, I have.</voice-transformation></speak>
+E1_C1_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Please buy your return ticket as soon as possible.</voice-transformation></speak>
+E1_C1_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Oh, ok. I will buy it.</voice-transformation></speak>
+E1_C1_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C1_L16_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Ok, bye.</voice-transformation></speak>
+E1_C1_L17_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C2_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Hello, my name is Robert.</voice-transformation></speak>
+E1_C2_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Where have you come from?</voice-transformation></speak>
+E1_C2_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >I did come from Italy.</voice-transformation></speak>
+E1_C2_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >May I have your passport?</voice-transformation></speak>
+E1_C2_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Ok, here is my passport.</voice-transformation></speak>
+E1_C2_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C2_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >I came with the aim to attend a cultural event.</voice-transformation></speak>
+E1_C2_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >How long will you stay?</voice-transformation></speak>
+E1_C2_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >I am going to stay for 4 days.</voice-transformation></speak>
+E1_C2_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >What is your occupation?</voice-transformation></speak>
+E1_C2_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >I am a computer engineer.</voice-transformation></speak>
+E1_C2_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C2_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Yes, my return ticket is here.</voice-transformation></speak>
+E1_C2_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C2_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Thank you very much. Have a good day.</voice-transformation></speak>
+E1_C2_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C3_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Oh... My name is Michael.</voice-transformation></speak>
+E1_C3_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Where have you come from?</voice-transformation></speak>
+E1_C3_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Um, well, I came from Italy.</voice-transformation></speak>
+E1_C3_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >May I have your passport?</voice-transformation></speak>
+E1_C3_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Yes, it should be here somewhere... Ah, here it is.</voice-transformation></speak>
+E1_C3_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C3_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >To study university... To study.</voice-transformation></speak>
+E1_C3_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >How long will you stay?</voice-transformation></speak>
+E1_C3_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >I guess it will be until 18th of September.</voice-transformation></speak>
+E1_C3_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >What is your occupation?</voice-transformation></speak>
+E1_C3_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Ah... I'm a student.</voice-transformation></speak>
+E1_C3_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C3_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Oh, where was it? Yes, it is here.</voice-transformation></speak>
+E1_C3_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C3_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Oh, thanks. See you later... I mean, have a good day.</voice-transformation></speak>
+E1_C3_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C4_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Hi, I'm William.</voice-transformation></speak>
+E1_C4_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Where have you come from?</voice-transformation></speak>
+E1_C4_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >I came from England officer, it's a lovely country.</voice-transformation></speak>
+E1_C4_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >May I have your passport?</voice-transformation></speak>
+E1_C4_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Of course officer, it's here.</voice-transformation></speak>
+E1_C4_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C4_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >I will visit famous places.</voice-transformation></speak>
+E1_C4_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >How long will you stay?</voice-transformation></speak>
+E1_C4_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >I will stay for a week.</voice-transformation></speak>
+E1_C4_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >What is your occupation?</voice-transformation></speak>
+E1_C4_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >I'm a doctor, officer.</voice-transformation></speak>
+E1_C4_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C4_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >My ticket is here.</voice-transformation></speak>
+E1_C4_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C4_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Thanks friend, have a very nice day.</voice-transformation></speak>
+E1_C4_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C5_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >I am David.</voice-transformation></speak>
+E1_C5_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Where have you come from?</voice-transformation></speak>
+E1_C5_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >England.</voice-transformation></speak>
+E1_C5_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >May I have your passport?</voice-transformation></speak>
+E1_C5_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Yes, here.</voice-transformation></speak>
+E1_C5_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C5_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >To visit a friend.</voice-transformation></speak>
+E1_C5_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >How long will you stay?</voice-transformation></speak>
+E1_C5_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >3 days.</voice-transformation></speak>
+E1_C5_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >What is your occupation?</voice-transformation></speak>
+E1_C5_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Photographer.</voice-transformation></speak>
+E1_C5_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C5_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Yes, here.</voice-transformation></speak>
+E1_C5_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C5_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Thanks.</voice-transformation></speak>
+E1_C5_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C6_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Hello, thank you. My name is Richard.</voice-transformation></speak>
+E1_C6_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Where have you come from?</voice-transformation></speak>
+E1_C6_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >I came from Germany.</voice-transformation></speak>
+E1_C6_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >May I have your passport?</voice-transformation></speak>
+E1_C6_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Yes, it is here.</voice-transformation></speak>
+E1_C6_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C6_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >My purpose is to attend a meeting.</voice-transformation></speak>
+E1_C6_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >How long will you stay?</voice-transformation></speak>
+E1_C6_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >I will stay for 9 days, dear officer.</voice-transformation></speak>
+E1_C6_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >What is your occupation?</voice-transformation></speak>
+E1_C6_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >I'm a dentist, officer.</voice-transformation></speak>
+E1_C6_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C6_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >I have it here officer.</voice-transformation></speak>
+E1_C6_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C6_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Thank you very much. Have a very good day.</voice-transformation></speak>
+E1_C6_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C7_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >I'm Charles.</voice-transformation></speak>
+E1_C7_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Where have you come from?</voice-transformation></speak>
+E1_C7_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >If it is necessary, from Germany.</voice-transformation></speak>
+E1_C7_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >May I have your passport?</voice-transformation></speak>
+E1_C7_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Ok...</voice-transformation></speak>
+E1_C7_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C7_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Well, I want to spend my vacation here, if there is no problem with that.</voice-transformation></speak>
+E1_C7_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >How long will you stay?</voice-transformation></speak>
+E1_C7_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >The expected question, eh? It is for 10 days.</voice-transformation></speak>
+E1_C7_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >What is your occupation?</voice-transformation></speak>
+E1_C7_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Well, accountant it is.</voice-transformation></speak>
+E1_C7_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C7_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Well, I have it. If you must look at it, here.</voice-transformation></speak>
+E1_C7_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C7_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >You did your job I guess. Later...</voice-transformation></speak>
+E1_C7_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C8_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Um... Hi! I'm... Joseph.</voice-transformation></speak>
+E1_C8_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Where have you come from?</voice-transformation></speak>
+E1_C8_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Ah... I... I came from Brazil.</voice-transformation></speak>
+E1_C8_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >May I have your passport?</voice-transformation></speak>
+E1_C8_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Um... Yes, please take it. Here.</voice-transformation></speak>
+E1_C8_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C8_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Ah, I... I will attend a conference. I visit because of it.</voice-transformation></speak>
+E1_C8_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >How long will you stay?</voice-transformation></speak>
+E1_C8_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Ah, I think it was written on the passport somewhere... It should be until 19th or 20th of July, I believe...</voice-transformation></speak>
+E1_C8_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >What is your occupation?</voice-transformation></speak>
+E1_C8_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Oh, I... I'm a mathematician.</voice-transformation></speak>
+E1_C8_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C8_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Return ticket? Wait, what? I... Oh no, I don't have that!</voice-transformation></speak>
+E1_C8_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Do you have a budget for your expenses and return?</voice-transformation></speak>
+E1_C8_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Umm, I'm not sure... I think I have enough, but is it? Hmmm... Well, I think I have enough budget.</voice-transformation></speak>
+E1_C8_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Please buy your return ticket as soon as possible.</voice-transformation></speak>
+E1_C8_L16_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >I... I am going to buy it. I will buy it as soon as possible.</voice-transformation></speak>
+E1_C8_L17_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C8_L18_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Thanks... Thank you for everything... So, see you... Bye!</voice-transformation></speak>
+E1_C8_L19_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Welcome, what is your name?</voice-transformation></speak>
+E1_C9_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Hello, my name is Thomas.</voice-transformation></speak>
+E1_C9_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Where have you come from?</voice-transformation></speak>
+E1_C9_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >I came from Brazil.</voice-transformation></speak>
+E1_C9_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >May I have your passport?</voice-transformation></speak>
+E1_C9_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Sure, here is my passport.</voice-transformation></speak>
+E1_C9_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >What is the purpose of your visit?</voice-transformation></speak>
+E1_C9_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >I will attend a meeting.</voice-transformation></speak>
+E1_C9_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >How long will you stay?</voice-transformation></speak>
+E1_C9_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >I will stay for 2 days.</voice-transformation></speak>
+E1_C9_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >What is your occupation?</voice-transformation></speak>
+E1_C9_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >I'm an attorney.</voice-transformation></speak>
+E1_C9_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Do you have your return ticket?</voice-transformation></speak>
+E1_C9_L12_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Yes, I have my return ticket, here it is.</voice-transformation></speak>
+E1_C9_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Ok, everything is fine, you may proceed.</voice-transformation></speak>
+E1_C9_L14_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Thank you, have a good day.</voice-transformation></speak>
+E1_C9_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Hello.</voice-transformation></speak>
+E3_C0_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Greetings.</voice-transformation></speak>
+E3_C0_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >What is your name?</voice-transformation></speak>
+E3_C0_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >I am known as James.</voice-transformation></speak>
+E3_C0_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >How old are you?</voice-transformation></speak>
+E3_C0_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >I was born in 1980, this means I am 39 years old.</voice-transformation></speak>
+E3_C0_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >What is your occupation?</voice-transformation></speak>
+E3_C0_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >I am the financial assistant of an electronics company.</voice-transformation></speak>
+E3_C0_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Where do you live?</voice-transformation></speak>
+E3_C0_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >My house is in New York, I spend most of my time in this city.</voice-transformation></speak>
+E3_C0_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >See you later.</voice-transformation></speak>
+E3_C0_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >I look forward to our next meeting.</voice-transformation></speak>
+E3_C0_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Hello.</voice-transformation></speak>
+E3_C1_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Hey.</voice-transformation></speak>
+E3_C1_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >What is your name?</voice-transformation></speak>
+E3_C1_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >I'm John.</voice-transformation></speak>
+E3_C1_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >How old are you?</voice-transformation></speak>
+E3_C1_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >It is 25.</voice-transformation></speak>
+E3_C1_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >What is your occupation?</voice-transformation></speak>
+E3_C1_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >I'm a teacher</voice-transformation></speak>
+E3_C1_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Where do you live?</voice-transformation></speak>
+E3_C1_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >In London.</voice-transformation></speak>
+E3_C1_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >See you later.</voice-transformation></speak>
+E3_C1_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Bye.</voice-transformation></speak>
+E3_C1_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Hello.</voice-transformation></speak>
+E3_C2_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Hello.</voice-transformation></speak>
+E3_C2_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >What is your name?</voice-transformation></speak>
+E3_C2_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >My name is Robert.</voice-transformation></speak>
+E3_C2_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >How old are you?</voice-transformation></speak>
+E3_C2_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >I am 27 years old.</voice-transformation></speak>
+E3_C2_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >What is your occupation?</voice-transformation></speak>
+E3_C2_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >I am a post officer.</voice-transformation></speak>
+E3_C2_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Where do you live?</voice-transformation></speak>
+E3_C2_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >I currently live in New York.</voice-transformation></speak>
+E3_C2_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >See you later.</voice-transformation></speak>
+E3_C2_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >See you later too.</voice-transformation></speak>
+E3_C2_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Hello.</voice-transformation></speak>
+E3_C3_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Oh, hey.</voice-transformation></speak>
+E3_C3_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >What is your name?</voice-transformation></speak>
+E3_C3_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Oh, well... My name is... Michael.</voice-transformation></speak>
+E3_C3_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >How old are you?</voice-transformation></speak>
+E3_C3_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Well... Hmm... 24 years old.</voice-transformation></speak>
+E3_C3_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >What is your occupation?</voice-transformation></speak>
+E3_C3_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >I... I'm a student.</voice-transformation></speak>
+E3_C3_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Where do you live?</voice-transformation></speak>
+E3_C3_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >London... I live in London.</voice-transformation></speak>
+E3_C3_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >See you later.</voice-transformation></speak>
+E3_C3_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Yeah, bye...</voice-transformation></speak>
+E3_C3_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Hello.</voice-transformation></speak>
+E3_C4_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Hi.</voice-transformation></speak>
+E3_C4_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >What is your name?</voice-transformation></speak>
+E3_C4_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >I'm William, my friend.</voice-transformation></speak>
+E3_C4_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >How old are you?</voice-transformation></speak>
+E3_C4_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >I'm 30 my friend.</voice-transformation></speak>
+E3_C4_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >What is your occupation?</voice-transformation></speak>
+E3_C4_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >I'm an attorney, in case you need help I'm always here.</voice-transformation></speak>
+E3_C4_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Where do you live?</voice-transformation></speak>
+E3_C4_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >I live in Chicago, you should come visit sometime.</voice-transformation></speak>
+E3_C4_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >See you later.</voice-transformation></speak>
+E3_C4_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >See you my friend.</voice-transformation></speak>
+E3_C4_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Hello.</voice-transformation></speak>
+E3_C5_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Hi.</voice-transformation></speak>
+E3_C5_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >What is your name?</voice-transformation></speak>
+E3_C5_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >David.</voice-transformation></speak>
+E3_C5_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >How old are you?</voice-transformation></speak>
+E3_C5_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >I'm 28.</voice-transformation></speak>
+E3_C5_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >What is your occupation?</voice-transformation></speak>
+E3_C5_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >I work at a restaurant.</voice-transformation></speak>
+E3_C5_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Where do you live?</voice-transformation></speak>
+E3_C5_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Chicago.</voice-transformation></speak>
+E3_C5_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >See you later.</voice-transformation></speak>
+E3_C5_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Yeah.</voice-transformation></speak>
+E3_C5_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Hello.</voice-transformation></speak>
+E3_C6_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Hello dear friend.</voice-transformation></speak>
+E3_C6_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >What is your name?</voice-transformation></speak>
+E3_C6_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >My name is Richard, nice to meet you.</voice-transformation></speak>
+E3_C6_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >How old are you?</voice-transformation></speak>
+E3_C6_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >I am 32 years old.</voice-transformation></speak>
+E3_C6_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >What is your occupation?</voice-transformation></speak>
+E3_C6_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >I am an attorney.</voice-transformation></speak>
+E3_C6_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Where do you live?</voice-transformation></speak>
+E3_C6_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >I live in Ankara.</voice-transformation></speak>
+E3_C6_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >See you later.</voice-transformation></speak>
+E3_C6_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Goodbye, have a nice day.</voice-transformation></speak>
+E3_C6_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Hello.</voice-transformation></speak>
+E3_C7_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Hmm...</voice-transformation></speak>
+E3_C7_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >What is your name?</voice-transformation></speak>
+E3_C7_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Why do you ask? It's Charles.</voice-transformation></speak>
+E3_C7_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >How old are you?</voice-transformation></speak>
+E3_C7_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >27.</voice-transformation></speak>
+E3_C7_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >What is your occupation?</voice-transformation></speak>
+E3_C7_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >None of you business...</voice-transformation></speak>
+E3_C7_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Where do you live?</voice-transformation></speak>
+E3_C7_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Not going to tell.</voice-transformation></speak>
+E3_C7_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >See you later.</voice-transformation></speak>
+E3_C7_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Yeah, bye.</voice-transformation></speak>
+E3_C7_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Hello.</voice-transformation></speak>
+E3_C8_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Oh... Hey... Hi.</voice-transformation></speak>
+E3_C8_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >What is your name?</voice-transformation></speak>
+E3_C8_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Um... I... I am Joseph.</voice-transformation></speak>
+E3_C8_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >How old are you?</voice-transformation></speak>
+E3_C8_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >It should be 27...</voice-transformation></speak>
+E3_C8_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >What is your occupation?</voice-transformation></speak>
+E3_C8_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >I... I work in a pharmacy.</voice-transformation></speak>
+E3_C8_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Where do you live?</voice-transformation></speak>
+E3_C8_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >It is Istanbul... I live in there...</voice-transformation></speak>
+E3_C8_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >See you later.</voice-transformation></speak>
+E3_C8_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Goodbye... I mean see you...</voice-transformation></speak>
+E3_C8_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Hello.</voice-transformation></speak>
+E3_C9_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Hello.</voice-transformation></speak>
+E3_C9_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >What is your name?</voice-transformation></speak>
+E3_C9_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >My name is Thomas.</voice-transformation></speak>
+E3_C9_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >How old are you?</voice-transformation></speak>
+E3_C9_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >I am 29 years old.</voice-transformation></speak>
+E3_C9_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >What is your occupation?</voice-transformation></speak>
+E3_C9_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >I am a teacher.</voice-transformation></speak>
+E3_C9_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Where do you live?</voice-transformation></speak>
+E3_C9_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >I live in New York.</voice-transformation></speak>
+E3_C9_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >See you later.</voice-transformation></speak>
+E3_C9_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >See you later.</voice-transformation></speak>
+E3_C9_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Hello.</voice-transformation></speak>
+E3_C0_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Greetings.</voice-transformation></speak>
+E3_C0_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >What is your name?</voice-transformation></speak>
+E3_C0_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >I am known as James.</voice-transformation></speak>
+E3_C0_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >How old are you?</voice-transformation></speak>
+E3_C0_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >I was born in 1980, this means I am 39 years old.</voice-transformation></speak>
+E3_C0_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >What is your occupation?</voice-transformation></speak>
+E3_C0_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >I am the financial assistant of an electronics company.</voice-transformation></speak>
+E3_C0_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Where do you live?</voice-transformation></speak>
+E3_C0_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >My house is in New York, I spend most of my time in this city.</voice-transformation></speak>
+E3_C0_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >See you later.</voice-transformation></speak>
+E3_C0_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >I look forward to our next meeting.</voice-transformation></speak>
+E3_C0_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Hello.</voice-transformation></speak>
+E3_C1_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Hey.</voice-transformation></speak>
+E3_C1_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >What is your name?</voice-transformation></speak>
+E3_C1_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >I'm John.</voice-transformation></speak>
+E3_C1_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >How old are you?</voice-transformation></speak>
+E3_C1_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >It is 25.</voice-transformation></speak>
+E3_C1_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >What is your occupation?</voice-transformation></speak>
+E3_C1_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >I'm a teacher</voice-transformation></speak>
+E3_C1_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Where do you live?</voice-transformation></speak>
+E3_C1_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >In London.</voice-transformation></speak>
+E3_C1_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >See you later.</voice-transformation></speak>
+E3_C1_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Bye.</voice-transformation></speak>
+E3_C1_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Hello.</voice-transformation></speak>
+E3_C2_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Hello.</voice-transformation></speak>
+E3_C2_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >What is your name?</voice-transformation></speak>
+E3_C2_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >My name is Robert.</voice-transformation></speak>
+E3_C2_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >How old are you?</voice-transformation></speak>
+E3_C2_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >I am 27 years old.</voice-transformation></speak>
+E3_C2_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >What is your occupation?</voice-transformation></speak>
+E3_C2_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >I am a post officer.</voice-transformation></speak>
+E3_C2_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Where do you live?</voice-transformation></speak>
+E3_C2_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >I currently live in New York.</voice-transformation></speak>
+E3_C2_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >See you later.</voice-transformation></speak>
+E3_C2_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >See you later too.</voice-transformation></speak>
+E3_C2_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Hello.</voice-transformation></speak>
+E3_C3_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Oh, hey.</voice-transformation></speak>
+E3_C3_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >What is your name?</voice-transformation></speak>
+E3_C3_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Oh, well... My name is... Michael.</voice-transformation></speak>
+E3_C3_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >How old are you?</voice-transformation></speak>
+E3_C3_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Well... Hmm... 24 years old.</voice-transformation></speak>
+E3_C3_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >What is your occupation?</voice-transformation></speak>
+E3_C3_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >I... I'm a student.</voice-transformation></speak>
+E3_C3_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Where do you live?</voice-transformation></speak>
+E3_C3_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >London... I live in London.</voice-transformation></speak>
+E3_C3_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >See you later.</voice-transformation></speak>
+E3_C3_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Yeah, bye...</voice-transformation></speak>
+E3_C3_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Hello.</voice-transformation></speak>
+E3_C4_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Hi.</voice-transformation></speak>
+E3_C4_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >What is your name?</voice-transformation></speak>
+E3_C4_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >I'm William, my friend.</voice-transformation></speak>
+E3_C4_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >How old are you?</voice-transformation></speak>
+E3_C4_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >I'm 30 my friend.</voice-transformation></speak>
+E3_C4_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >What is your occupation?</voice-transformation></speak>
+E3_C4_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >I'm an attorney, in case you need help I'm always here.</voice-transformation></speak>
+E3_C4_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Where do you live?</voice-transformation></speak>
+E3_C4_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >I live in Chicago, you should come visit sometime.</voice-transformation></speak>
+E3_C4_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >See you later.</voice-transformation></speak>
+E3_C4_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >See you my friend.</voice-transformation></speak>
+E3_C4_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Hello.</voice-transformation></speak>
+E3_C5_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Hi.</voice-transformation></speak>
+E3_C5_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >What is your name?</voice-transformation></speak>
+E3_C5_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >David.</voice-transformation></speak>
+E3_C5_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >How old are you?</voice-transformation></speak>
+E3_C5_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >I'm 28.</voice-transformation></speak>
+E3_C5_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >What is your occupation?</voice-transformation></speak>
+E3_C5_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >I work at a restaurant.</voice-transformation></speak>
+E3_C5_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Where do you live?</voice-transformation></speak>
+E3_C5_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Chicago.</voice-transformation></speak>
+E3_C5_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >See you later.</voice-transformation></speak>
+E3_C5_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Yeah.</voice-transformation></speak>
+E3_C5_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Hello.</voice-transformation></speak>
+E3_C6_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Hello dear friend.</voice-transformation></speak>
+E3_C6_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >What is your name?</voice-transformation></speak>
+E3_C6_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >My name is Richard, nice to meet you.</voice-transformation></speak>
+E3_C6_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >How old are you?</voice-transformation></speak>
+E3_C6_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >I am 32 years old.</voice-transformation></speak>
+E3_C6_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >What is your occupation?</voice-transformation></speak>
+E3_C6_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >I am an attorney.</voice-transformation></speak>
+E3_C6_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Where do you live?</voice-transformation></speak>
+E3_C6_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >I live in Ankara.</voice-transformation></speak>
+E3_C6_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >See you later.</voice-transformation></speak>
+E3_C6_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Goodbye, have a nice day.</voice-transformation></speak>
+E3_C6_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Hello.</voice-transformation></speak>
+E3_C7_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Hmm...</voice-transformation></speak>
+E3_C7_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >What is your name?</voice-transformation></speak>
+E3_C7_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Why do you ask? It's Charles.</voice-transformation></speak>
+E3_C7_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >How old are you?</voice-transformation></speak>
+E3_C7_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >27.</voice-transformation></speak>
+E3_C7_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >What is your occupation?</voice-transformation></speak>
+E3_C7_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >None of you business...</voice-transformation></speak>
+E3_C7_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Where do you live?</voice-transformation></speak>
+E3_C7_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Not going to tell.</voice-transformation></speak>
+E3_C7_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >See you later.</voice-transformation></speak>
+E3_C7_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Yeah, bye.</voice-transformation></speak>
+E3_C7_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Hello.</voice-transformation></speak>
+E3_C8_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Oh... Hey... Hi.</voice-transformation></speak>
+E3_C8_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >What is your name?</voice-transformation></speak>
+E3_C8_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Um... I... I am Joseph.</voice-transformation></speak>
+E3_C8_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >How old are you?</voice-transformation></speak>
+E3_C8_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >It should be 27...</voice-transformation></speak>
+E3_C8_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >What is your occupation?</voice-transformation></speak>
+E3_C8_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >I... I work in a pharmacy.</voice-transformation></speak>
+E3_C8_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Where do you live?</voice-transformation></speak>
+E3_C8_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >It is Istanbul... I live in there...</voice-transformation></speak>
+E3_C8_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >See you later.</voice-transformation></speak>
+E3_C8_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Goodbye... I mean see you...</voice-transformation></speak>
+E3_C8_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Hello.</voice-transformation></speak>
+E3_C9_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Hello.</voice-transformation></speak>
+E3_C9_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >What is your name?</voice-transformation></speak>
+E3_C9_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >My name is Thomas.</voice-transformation></speak>
+E3_C9_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >How old are you?</voice-transformation></speak>
+E3_C9_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >I am 29 years old.</voice-transformation></speak>
+E3_C9_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >What is your occupation?</voice-transformation></speak>
+E3_C9_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >I am a teacher.</voice-transformation></speak>
+E3_C9_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Where do you live?</voice-transformation></speak>
+E3_C9_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >I live in New York.</voice-transformation></speak>
+E3_C9_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >See you later.</voice-transformation></speak>
+E3_C9_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >See you later.</voice-transformation></speak>
+E3_C9_L11_A_TTS
+

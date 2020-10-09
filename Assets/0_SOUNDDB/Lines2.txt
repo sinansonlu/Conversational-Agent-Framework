@@ -1,0 +1,249 @@
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Greetings, my name is James.</voice-transformation></speak>
+E1_C0_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I am coming from Spain to this beautiful country.</voice-transformation></speak>
+E1_C0_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Sure, my passport is here, at your service.</voice-transformation></speak>
+E1_C0_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I plan to attend an annual journalism conference.</voice-transformation></speak>
+E1_C0_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I was planning to stay here for a total of 10 days.</voice-transformation></speak>
+E1_C0_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I'm a journalist, this is how I earn my living.</voice-transformation></speak>
+E1_C0_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Of course, I have my return ticket ready, it is here.</voice-transformation></speak>
+E1_C0_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I'm grateful, have a nice day officer.</voice-transformation></speak>
+E1_C0_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Hey. I'm John.</voice-transformation></speak>
+E1_C1_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I came from Spain.</voice-transformation></speak>
+E1_C1_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >It is here.</voice-transformation></speak>
+E1_C1_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >It is to spend my vacation.</voice-transformation></speak>
+E1_C1_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >21 days.</voice-transformation></speak>
+E1_C1_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >No job currently.</voice-transformation></speak>
+E1_C1_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Sure, I have</voice-transformation></speak>
+E1_C1_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Oh, ok. I will buy it.</voice-transformation></speak>
+E1_C1_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Ok, bye.</voice-transformation></speak>
+E1_C1_L17_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Hello, my name is Robert.</voice-transformation></speak>
+E1_C2_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I did come from Italy.</voice-transformation></speak>
+E1_C2_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Ok, here is my passport.</voice-transformation></speak>
+E1_C2_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I came with the aim to attend a cultural event.</voice-transformation></speak>
+E1_C2_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I am going to stay for 4 days.</voice-transformation></speak>
+E1_C2_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I am a computer engineer.</voice-transformation></speak>
+E1_C2_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Yes, my return ticket is here.</voice-transformation></speak>
+E1_C2_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Thank you very much. Have a good day.</voice-transformation></speak>
+E1_C2_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Oh... My name is Michael.</voice-transformation></speak>
+E1_C3_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Um, well, I came from Italy.</voice-transformation></speak>
+E1_C3_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Yes, it should be here somewhere... Ah, here it is.</voice-transformation></speak>
+E1_C3_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >To study university... To study.</voice-transformation></speak>
+E1_C3_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I guess it will be until 18th of September.</voice-transformation></speak>
+E1_C3_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Ah... I'm a student.</voice-transformation></speak>
+E1_C3_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Oh, where was it ? Yes, it is here.</voice-transformation></speak>
+E1_C3_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Oh, thanks. See you later... I mean, have a good day.</voice-transformation></speak>
+E1_C3_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Hi, I'm William.</voice-transformation></speak>
+E1_C4_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I came from England officer, it's a lovely country.</voice-transformation></speak>
+E1_C4_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Of course officer, it's here.</voice-transformation></speak>
+E1_C4_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I will visit famous places.</voice-transformation></speak>
+E1_C4_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I will stay for a week.</voice-transformation></speak>
+E1_C4_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I'm a doctor, officer.</voice-transformation></speak>
+E1_C4_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >My ticket is here.</voice-transformation></speak>
+E1_C4_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Thanks friend, have a very nice day.</voice-transformation></speak>
+E1_C4_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I am David.</voice-transformation></speak>
+E1_C5_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >England.</voice-transformation></speak>
+E1_C5_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Yes, here.</voice-transformation></speak>
+E1_C5_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >To visit a friend.</voice-transformation></speak>
+E1_C5_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >3 days.</voice-transformation></speak>
+E1_C5_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Photographer.</voice-transformation></speak>
+E1_C5_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Yes, here.</voice-transformation></speak>
+E1_C5_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Thanks.</voice-transformation></speak>
+E1_C5_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Hello, thank you. My name is Richard.</voice-transformation></speak>
+E1_C6_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I came from Germany.</voice-transformation></speak>
+E1_C6_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Yes, it is here.</voice-transformation></speak>
+E1_C6_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >My purpose is to attend a meeting.</voice-transformation></speak>
+E1_C6_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I will stay for 9 days, dear officer.</voice-transformation></speak>
+E1_C6_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I'm a dentist, officer.</voice-transformation></speak>
+E1_C6_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I have it here officer.</voice-transformation></speak>
+E1_C6_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Thank you very much. Have a very good day.</voice-transformation></speak>
+E1_C6_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I'm Charles.</voice-transformation></speak>
+E1_C7_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >If it is necessary, from Germany.</voice-transformation></speak>
+E1_C7_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Ok...</voice-transformation></speak>
+E1_C7_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Well, I want to spend my vacation here, if there is no problem with that.</voice-transformation></speak>
+E1_C7_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >The expected question, eh? It is for 10 days.</voice-transformation></speak>
+E1_C7_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Well, accountant it is.</voice-transformation></speak>
+E1_C7_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Well, I have it. If you must look at it, here.</voice-transformation></speak>
+E1_C7_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >You did your job I guess. Later...</voice-transformation></speak>
+E1_C7_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Um... Hi! I'm... Joseph.</voice-transformation></speak>
+E1_C8_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Ah... I... I came from Brazil.</voice-transformation></speak>
+E1_C8_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Um... Yes, please take it. Here.</voice-transformation></speak>
+E1_C8_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Ah, I... I will attend a conference. I visit because of it.</voice-transformation></speak>
+E1_C8_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Ah, I think it was written on the passport somewhere... It should be until 19th or 20th of July, I believe...</voice-transformation></speak>
+E1_C8_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Oh, I... I'm a mathematician.</voice-transformation></speak>
+E1_C8_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Return ticket? Wait, what? I... Oh no, I don't have that!</voice-transformation></speak>
+E1_C8_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Umm, I'm not sure... I think I have enough, but is it? Hmmm... Well, I think I have enough budget.</voice-transformation></speak>
+E1_C8_L15_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I... I am going to buy it. I will buy it as soon as possible.</voice-transformation></speak>
+E1_C8_L17_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Thanks... Thank you for everything... So, see you... Bye!</voice-transformation></speak>
+E1_C8_L19_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Hello, my name is Thomas.</voice-transformation></speak>
+E1_C9_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I came from Brazil.</voice-transformation></speak>
+E1_C9_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Sure, here is my passport.</voice-transformation></speak>
+E1_C9_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I will attend a meeting.</voice-transformation></speak>
+E1_C9_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I will stay for 2 days.</voice-transformation></speak>
+E1_C9_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >I'm an attorney.</voice-transformation></speak>
+E1_C9_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Yes, I have my return ticket, here it is.</voice-transformation></speak>
+E1_C9_L13_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="0 % " rate ="0 % " breathiness ="0 % " glottal_tension =" 0 % " >Thank you, have a good day.</voice-transformation></speak>
+E1_C9_L15_A_TTS
+

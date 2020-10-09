@@ -1,0 +1,720 @@
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Hello, what burgers do you sell?</voice-transformation></speak>
+E4_C0_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Our delightful restaurant has Cheese Burger, Meat Burger, Twin Burger and Chicken Burger, which one could I prepare for you?</voice-transformation></speak>
+E4_C0_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Can I get a Cheese Burger?</voice-transformation></speak>
+E4_C0_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Of course, also it is possible to get Cheese Burger Menu for only 9.50, would you like to do so?</voice-transformation></speak>
+E4_C0_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Yes, please.</voice-transformation></speak>
+E4_C0_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Of course. Would you like the large selection for your menu? It would be 10.99 in total.</voice-transformation></speak>
+E4_C0_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >No, thank you.</voice-transformation></speak>
+E4_C0_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Of course, I added your Cheese Burger Menu to your order. Would you like to get anything else?</voice-transformation></speak>
+E4_C0_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >No, that's all.</voice-transformation></speak>
+E4_C0_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Of course, it would be 9.50 in total, how would you like to pay your order? Cash or credit card?</voice-transformation></speak>
+E4_C0_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Credit card.</voice-transformation></speak>
+E4_C0_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >The order will be ready soon. Thank you very much, please visit again.</voice-transformation></speak>
+E4_C0_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Hello, what burgers do you sell?</voice-transformation></speak>
+E4_C1_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >We have Cheese Burger, Meat Burger, Twin Burger and Chicken Burger.</voice-transformation></speak>
+E4_C1_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Can I get a Cheese Burger?</voice-transformation></speak>
+E4_C1_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Want to make it Cheese Burger Menu for 9.50?</voice-transformation></speak>
+E4_C1_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Yes, please.</voice-transformation></speak>
+E4_C1_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Ok, do you want the large selection for 10.99?</voice-transformation></speak>
+E4_C1_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >No, thank you.</voice-transformation></speak>
+E4_C1_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Sure, Cheese Burger Menu is added, anything else?</voice-transformation></speak>
+E4_C1_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >No, that's all.</voice-transformation></speak>
+E4_C1_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Ok, total is 9.50, how will you pay it? Cash or credit?</voice-transformation></speak>
+E4_C1_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Credit card.</voice-transformation></speak>
+E4_C1_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Order is preparing. See you later.</voice-transformation></speak>
+E4_C1_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Hello, what burgers do you sell?</voice-transformation></speak>
+E4_C2_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >We do sell Cheese Burger, Meat Burger, Twin Burger and Chicken Burger.</voice-transformation></speak>
+E4_C2_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Can I get a Cheese Burger?</voice-transformation></speak>
+E4_C2_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Ok, would you like to make it Cheese Burger Menu for 9.50?</voice-transformation></speak>
+E4_C2_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Yes, please.</voice-transformation></speak>
+E4_C2_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Sure, it is also possible to get large selection for 10.99, would you like it?</voice-transformation></speak>
+E4_C2_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >No, thank you.</voice-transformation></speak>
+E4_C2_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Ok, I added your Cheese Burger Menu, would you like to add any other product?</voice-transformation></speak>
+E4_C2_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >No, that's all.</voice-transformation></speak>
+E4_C2_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Sure, it would be 9.50 in total. Would you like to pay it with cash or credit card?</voice-transformation></speak>
+E4_C2_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Credit card.</voice-transformation></speak>
+E4_C2_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Your order is going to be ready in a minute. I would like to thank you, please visit again.</voice-transformation></speak>
+E4_C2_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Hello, what burgers do you sell?</voice-transformation></speak>
+E4_C3_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Oh, well... We got burgers. We have Cheese Burger, Meat Burger, Twin Burger and Chicken Burger.</voice-transformation></speak>
+E4_C3_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Can I get a Cheese Burger?</voice-transformation></speak>
+E4_C3_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Sure, ok... Hmmm, we also have Cheese Burger Menu for 9.50, do you want to get Cheese Burger Menu?</voice-transformation></speak>
+E4_C3_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Yes, please.</voice-transformation></speak>
+E4_C3_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Ok. Oh, also, you can get the large selection for 10.99... Do you want it?</voice-transformation></speak>
+E4_C3_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >No, thank you.</voice-transformation></speak>
+E4_C3_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Cheese Burger Menu, right? Ok, I added it. Do you want anything else? Any other product?</voice-transformation></speak>
+E4_C3_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >No, that's all.</voice-transformation></speak>
+E4_C3_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Ok, total price is... One second... It is 9.50. How will you pay it? Cash or credit?</voice-transformation></speak>
+E4_C3_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Credit card.</voice-transformation></speak>
+E4_C3_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Oh, ok. The order will be ready, soon... Thank you for coming... I... I hope to see you again.</voice-transformation></speak>
+E4_C3_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Hello, what burgers do you sell?</voice-transformation></speak>
+E4_C4_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >My friend, we sell Cheese Burger, Meat Burger, Twin Burger and Chicken Burger. Which one would you like?</voice-transformation></speak>
+E4_C4_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Can I get a Cheese Burger?</voice-transformation></speak>
+E4_C4_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Sure my friend, I could also get you Cheese Burger Menu, it is only 9.50, how about that?</voice-transformation></speak>
+E4_C4_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Yes, please.</voice-transformation></speak>
+E4_C4_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Sure my friend, if you want you can also get the large selection. It is only 10.99, how about it?</voice-transformation></speak>
+E4_C4_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >No, thank you.</voice-transformation></speak>
+E4_C4_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >I added your Cheese Burger Menu, my friend, is there anything else you want?</voice-transformation></speak>
+E4_C4_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >No, that's all.</voice-transformation></speak>
+E4_C4_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Sure my friend, the total price is 9.50. Would you like to pay it with cash or credit card?</voice-transformation></speak>
+E4_C4_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Credit card.</voice-transformation></speak>
+E4_C4_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Ok my friend, the order will be ready in a minute. Please visit us again.</voice-transformation></speak>
+E4_C4_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Hello, what burgers do you sell?</voice-transformation></speak>
+E4_C5_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Cheese Burger, Meat Burger, Twin Burger and Chicken Burger.</voice-transformation></speak>
+E4_C5_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Can I get a Cheese Burger?</voice-transformation></speak>
+E4_C5_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >There is Cheese Burger Menu for 9.50. Do you want to get the menu?</voice-transformation></speak>
+E4_C5_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Yes, please.</voice-transformation></speak>
+E4_C5_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Want the large selection for 10.99?</voice-transformation></speak>
+E4_C5_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >No, thank you.</voice-transformation></speak>
+E4_C5_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Cheese Burger Menu, ok. Anything else?</voice-transformation></speak>
+E4_C5_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >No, that's all.</voice-transformation></speak>
+E4_C5_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Total is 9.50. Would you like to pay it with cash or credit card?</voice-transformation></speak>
+E4_C5_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Credit card.</voice-transformation></speak>
+E4_C5_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Order will be ready, please come again.</voice-transformation></speak>
+E4_C5_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Hello, what burgers do you sell?</voice-transformation></speak>
+E4_C6_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >We have Cheese Burger, Meat Burger, Twin Burger and Chicken Burger. Which one would you like?</voice-transformation></speak>
+E4_C6_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Can I get a Cheese Burger?</voice-transformation></speak>
+E4_C6_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Sure, we also have Cheese Burger Menu for 9.50, would you like the menu?</voice-transformation></speak>
+E4_C6_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Yes, please.</voice-transformation></speak>
+E4_C6_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Sure. If you would like, I could get you the large selection for 10.99, is that ok?</voice-transformation></speak>
+E4_C6_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >No, thank you.</voice-transformation></speak>
+E4_C6_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Your Cheese Burger Menu is added, could I get you anything else?</voice-transformation></speak>
+E4_C6_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >No, that's all.</voice-transformation></speak>
+E4_C6_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >It would be 9.50 in total. How would you like to pay the amount? You may use cash or your credit card.</voice-transformation></speak>
+E4_C6_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Credit card.</voice-transformation></speak>
+E4_C6_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >The order will be ready in a minute. Thank you very much for coming, please visit us again. Have a nice day.</voice-transformation></speak>
+E4_C6_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Hello, what burgers do you sell?</voice-transformation></speak>
+E4_C7_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Ok, if you don't know, we sell Cheese Burger, Meat Burger, Twin Burger and Chicken Burger.</voice-transformation></speak>
+E4_C7_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Can I get a Cheese Burger?</voice-transformation></speak>
+E4_C7_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Well, we also have a menu, you know? Want to make it Cheese Burger Menu for 9.50?</voice-transformation></speak>
+E4_C7_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Yes, please.</voice-transformation></speak>
+E4_C7_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Yup. Want to make it large for 10.99?</voice-transformation></speak>
+E4_C7_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >No, thank you.</voice-transformation></speak>
+E4_C7_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Cheese Burger Menu, huh? Ok, want anything else?</voice-transformation></speak>
+E4_C7_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >No, that's all.</voice-transformation></speak>
+E4_C7_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >The total is 9.50, if that's all. Want to pay it with cash? Or Credit card?</voice-transformation></speak>
+E4_C7_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Credit card.</voice-transformation></speak>
+E4_C7_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Order is preparing. Do visit us again.</voice-transformation></speak>
+E4_C7_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Hello, what burgers do you sell?</voice-transformation></speak>
+E4_C8_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Oh, well, we have fries... Oh, you mean burgers, right? Then it is Cheese Burger, Meat Burger, Twin Burger and Chicken Burger.</voice-transformation></speak>
+E4_C8_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Can I get a Cheese Burger?</voice-transformation></speak>
+E4_C8_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Oh, ok... By the way, we can... We could make it a menu, you know. There is Cheese Burger Menu, it is only 9.50.</voice-transformation></speak>
+E4_C8_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Yes, please.</voice-transformation></speak>
+E4_C8_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Well, ok. Oh... We can also make it the large selection for 10.99. How is that? Do you want the large selection?</voice-transformation></speak>
+E4_C8_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >No, thank you.</voice-transformation></speak>
+E4_C8_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Cheese Burger Menu... Ok, ok I added it. Can I get you something else? Some other thing to eat or drink?</voice-transformation></speak>
+E4_C8_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >No, that's all.</voice-transformation></speak>
+E4_C8_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Oh, ok...The total is... It would be 9.50, how will you pay it? Cash or credit card?</voice-transformation></speak>
+E4_C8_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Credit card.</voice-transformation></speak>
+E4_C8_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Oh, ok... You order, it will be ready in two or three minutes. By the way, thank you for coming... Visit us again, please.</voice-transformation></speak>
+E4_C8_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Hello, what burgers do you sell?</voice-transformation></speak>
+E4_C9_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >We have Cheese Burger, Meat Burger, Twin Burger and Chicken Burger. Which one would you like?</voice-transformation></speak>
+E4_C9_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Can I get a Cheese Burger?</voice-transformation></speak>
+E4_C9_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >You could get Cheese Burger Menu for 9.50, how about it?</voice-transformation></speak>
+E4_C9_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Yes, please.</voice-transformation></speak>
+E4_C9_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Ok, if you want the large selection it becomes 10.99 in total. How about it?</voice-transformation></speak>
+E4_C9_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >No, thank you.</voice-transformation></speak>
+E4_C9_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >I added your Cheese Burger Menu, would you like to order anything else?</voice-transformation></speak>
+E4_C9_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >No, that's all.</voice-transformation></speak>
+E4_C9_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Ok, it would be 9.50 in total, how will you pay it? Cash or credit card?</voice-transformation></speak>
+E4_C9_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Credit card.</voice-transformation></speak>
+E4_C9_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Your order will be ready in a minute, please visit us again.</voice-transformation></speak>
+E4_C9_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Hello, what burgers do you sell?</voice-transformation></speak>
+E4_C0_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Our delightful restaurant has Cheese Burger, Meat Burger, Twin Burger and Chicken Burger, which one could I prepare for you?</voice-transformation></speak>
+E4_C0_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Can I get a Cheese Burger?</voice-transformation></speak>
+E4_C0_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Of course, also it is possible to get Cheese Burger Menu for only 9.50, would you like to do so?</voice-transformation></speak>
+E4_C0_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Yes, please.</voice-transformation></speak>
+E4_C0_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Of course. Would you like the large selection for your menu? It would be 10.99 in total.</voice-transformation></speak>
+E4_C0_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >No, thank you.</voice-transformation></speak>
+E4_C0_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Of course, I added your Cheese Burger Menu to your order. Would you like to get anything else?</voice-transformation></speak>
+E4_C0_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >No, that's all.</voice-transformation></speak>
+E4_C0_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Of course, it would be 9.50 in total, how would you like to pay your order? Cash or credit card?</voice-transformation></speak>
+E4_C0_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Credit card.</voice-transformation></speak>
+E4_C0_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >The order will be ready soon. Thank you very much, please visit again.</voice-transformation></speak>
+E4_C0_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 60 % " pitch_range ="100 % " rate ="0 % " breathiness ="20 % " glottal_tension =" -40 % " >Hello, what burgers do you sell?</voice-transformation></speak>
+E4_C1_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >We have Cheese Burger, Meat Burger, Twin Burger and Chicken Burger.</voice-transformation></speak>
+E4_C1_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Can I get a Cheese Burger?</voice-transformation></speak>
+E4_C1_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Want to make it Cheese Burger Menu for 9.50?</voice-transformation></speak>
+E4_C1_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Yes, please.</voice-transformation></speak>
+E4_C1_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Ok, do you want the large selection for 10.99?</voice-transformation></speak>
+E4_C1_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >No, thank you.</voice-transformation></speak>
+E4_C1_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Sure, Cheese Burger Menu is added, anything else?</voice-transformation></speak>
+E4_C1_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >No, that's all.</voice-transformation></speak>
+E4_C1_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Ok, total is 9.50, how will you pay it? Cash or credit?</voice-transformation></speak>
+E4_C1_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Credit card.</voice-transformation></speak>
+E4_C1_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Order is preparing. See you later.</voice-transformation></speak>
+E4_C1_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -50 % " pitch_range ="-100 % " rate ="30 % " breathiness ="-40 % " glottal_tension =" 70 % " >Hello, what burgers do you sell?</voice-transformation></speak>
+E4_C2_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >We do sell Cheese Burger, Meat Burger, Twin Burger and Chicken Burger.</voice-transformation></speak>
+E4_C2_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Can I get a Cheese Burger?</voice-transformation></speak>
+E4_C2_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Ok, would you like to make it Cheese Burger Menu for 9.50?</voice-transformation></speak>
+E4_C2_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Yes, please.</voice-transformation></speak>
+E4_C2_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Sure, it is also possible to get large selection for 10.99, would you like it?</voice-transformation></speak>
+E4_C2_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >No, thank you.</voice-transformation></speak>
+E4_C2_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Ok, I added your Cheese Burger Menu, would you like to add any other product?</voice-transformation></speak>
+E4_C2_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >No, that's all.</voice-transformation></speak>
+E4_C2_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Sure, it would be 9.50 in total. Would you like to pay it with cash or credit card?</voice-transformation></speak>
+E4_C2_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Credit card.</voice-transformation></speak>
+E4_C2_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Your order is going to be ready in a minute. I would like to thank you, please visit again.</voice-transformation></speak>
+E4_C2_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -30 % " pitch_range ="-20 % " rate ="-60 % " breathiness ="20 % " glottal_tension =" -20 % " >Hello, what burgers do you sell?</voice-transformation></speak>
+E4_C3_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Oh, well... We got burgers. We have Cheese Burger, Meat Burger, Twin Burger and Chicken Burger.</voice-transformation></speak>
+E4_C3_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Can I get a Cheese Burger?</voice-transformation></speak>
+E4_C3_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Sure, ok... Hmmm, we also have Cheese Burger Menu for 9.50, do you want to get Cheese Burger Menu?</voice-transformation></speak>
+E4_C3_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Yes, please.</voice-transformation></speak>
+E4_C3_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Ok. Oh, also, you can get the large selection for 10.99... Do you want it?</voice-transformation></speak>
+E4_C3_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >No, thank you.</voice-transformation></speak>
+E4_C3_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Cheese Burger Menu, right? Ok, I added it. Do you want anything else? Any other product?</voice-transformation></speak>
+E4_C3_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >No, that's all.</voice-transformation></speak>
+E4_C3_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Ok, total price is... One second... It is 9.50. How will you pay it? Cash or credit?</voice-transformation></speak>
+E4_C3_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Credit card.</voice-transformation></speak>
+E4_C3_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Oh, ok. The order will be ready, soon... Thank you for coming... I... I hope to see you again.</voice-transformation></speak>
+E4_C3_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -80 % " pitch_range ="-80 % " rate ="30 % " breathiness ="0 % " glottal_tension =" -80 % " >Hello, what burgers do you sell?</voice-transformation></speak>
+E4_C4_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >My friend, we sell Cheese Burger, Meat Burger, Twin Burger and Chicken Burger. Which one would you like?</voice-transformation></speak>
+E4_C4_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Can I get a Cheese Burger?</voice-transformation></speak>
+E4_C4_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Sure my friend, I could also get you Cheese Burger Menu, it is only 9.50, how about that?</voice-transformation></speak>
+E4_C4_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Yes, please.</voice-transformation></speak>
+E4_C4_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Sure my friend, if you want you can also get the large selection. It is only 10.99, how about it?</voice-transformation></speak>
+E4_C4_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >No, thank you.</voice-transformation></speak>
+E4_C4_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >I added your Cheese Burger Menu, my friend, is there anything else you want?</voice-transformation></speak>
+E4_C4_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >No, that's all.</voice-transformation></speak>
+E4_C4_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Sure my friend, the total price is 9.50. Would you like to pay it with cash or credit card?</voice-transformation></speak>
+E4_C4_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Credit card.</voice-transformation></speak>
+E4_C4_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Ok my friend, the order will be ready in a minute. Please visit us again.</voice-transformation></speak>
+E4_C4_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 80 % " pitch_range ="100 % " rate ="40 % " breathiness ="-20 % " glottal_tension =" 50 % " >Hello, what burgers do you sell?</voice-transformation></speak>
+E4_C5_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Cheese Burger, Meat Burger, Twin Burger and Chicken Burger.</voice-transformation></speak>
+E4_C5_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Can I get a Cheese Burger?</voice-transformation></speak>
+E4_C5_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >There is Cheese Burger Menu for 9.50. Do you want to get the menu?</voice-transformation></speak>
+E4_C5_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Yes, please.</voice-transformation></speak>
+E4_C5_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Want the large selection for 10.99?</voice-transformation></speak>
+E4_C5_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >No, thank you.</voice-transformation></speak>
+E4_C5_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Cheese Burger Menu, ok. Anything else?</voice-transformation></speak>
+E4_C5_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >No, that's all.</voice-transformation></speak>
+E4_C5_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Total is 9.50. Would you like to pay it with cash or credit card?</voice-transformation></speak>
+E4_C5_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Credit card.</voice-transformation></speak>
+E4_C5_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Order will be ready, please come again.</voice-transformation></speak>
+E4_C5_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -10 % " pitch_range ="-20 % " rate ="-30 % " breathiness ="20 % " glottal_tension =" -10 % " >Hello, what burgers do you sell?</voice-transformation></speak>
+E4_C6_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >We have Cheese Burger, Meat Burger, Twin Burger and Chicken Burger. Which one would you like?</voice-transformation></speak>
+E4_C6_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Can I get a Cheese Burger?</voice-transformation></speak>
+E4_C6_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Sure, we also have Cheese Burger Menu for 9.50, would you like the menu?</voice-transformation></speak>
+E4_C6_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Yes, please.</voice-transformation></speak>
+E4_C6_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Sure. If you would like, I could get you the large selection for 10.99, is that ok?</voice-transformation></speak>
+E4_C6_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >No, thank you.</voice-transformation></speak>
+E4_C6_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Your Cheese Burger Menu is added, could I get you anything else?</voice-transformation></speak>
+E4_C6_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >No, that's all.</voice-transformation></speak>
+E4_C6_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >It would be 9.50 in total. How would you like to pay the amount? You may use cash or your credit card.</voice-transformation></speak>
+E4_C6_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Credit card.</voice-transformation></speak>
+E4_C6_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >The order will be ready in a minute. Thank you very much for coming, please visit us again. Have a nice day.</voice-transformation></speak>
+E4_C6_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" -90 % " pitch_range ="10 % " rate ="-20 % " breathiness ="50 % " glottal_tension =" -40 % " >Hello, what burgers do you sell?</voice-transformation></speak>
+E4_C7_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Ok, if you don't know, we sell Cheese Burger, Meat Burger, Twin Burger and Chicken Burger.</voice-transformation></speak>
+E4_C7_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Can I get a Cheese Burger?</voice-transformation></speak>
+E4_C7_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Well, we also have a menu, you know? Want to make it Cheese Burger Menu for 9.50?</voice-transformation></speak>
+E4_C7_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Yes, please.</voice-transformation></speak>
+E4_C7_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Yup. Want to make it large for 10.99?</voice-transformation></speak>
+E4_C7_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >No, thank you.</voice-transformation></speak>
+E4_C7_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Cheese Burger Menu, huh? Ok, want anything else?</voice-transformation></speak>
+E4_C7_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >No, that's all.</voice-transformation></speak>
+E4_C7_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >The total is 9.50, if that's all. Want to pay it with cash? Or Credit card?</voice-transformation></speak>
+E4_C7_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Credit card.</voice-transformation></speak>
+E4_C7_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Order is preparing. Do visit us again.</voice-transformation></speak>
+E4_C7_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="-20 % " rate ="30 % " breathiness ="-60 % " glottal_tension =" 60 % " >Hello, what burgers do you sell?</voice-transformation></speak>
+E4_C8_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Oh, well, we have fries... Oh, you mean burgers, right? Then it is Cheese Burger, Meat Burger, Twin Burger and Chicken Burger.</voice-transformation></speak>
+E4_C8_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Can I get a Cheese Burger?</voice-transformation></speak>
+E4_C8_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Oh, ok... By the way, we can... We could make it a menu, you know. There is Cheese Burger Menu, it is only 9.50.</voice-transformation></speak>
+E4_C8_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Yes, please.</voice-transformation></speak>
+E4_C8_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Well, ok. Oh... We can also make it the large selection for 10.99. How is that? Do you want the large selection?</voice-transformation></speak>
+E4_C8_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >No, thank you.</voice-transformation></speak>
+E4_C8_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Cheese Burger Menu... Ok, ok I added it. Can I get you something else? Some other thing to eat or drink?</voice-transformation></speak>
+E4_C8_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >No, that's all.</voice-transformation></speak>
+E4_C8_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Oh, ok...The total is... It would be 9.50, how will you pay it? Cash or credit card?</voice-transformation></speak>
+E4_C8_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Credit card.</voice-transformation></speak>
+E4_C8_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Oh, ok... You order, it will be ready in two or three minutes. By the way, thank you for coming... Visit us again, please.</voice-transformation></speak>
+E4_C8_L11_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 10 % " pitch_range ="-70 % " rate ="10 % " breathiness ="-40 % " glottal_tension =" 80 % " >Hello, what burgers do you sell?</voice-transformation></speak>
+E4_C9_L0_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >We have Cheese Burger, Meat Burger, Twin Burger and Chicken Burger. Which one would you like?</voice-transformation></speak>
+E4_C9_L1_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Can I get a Cheese Burger?</voice-transformation></speak>
+E4_C9_L2_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >You could get Cheese Burger Menu for 9.50, how about it?</voice-transformation></speak>
+E4_C9_L3_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Yes, please.</voice-transformation></speak>
+E4_C9_L4_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Ok, if you want the large selection it becomes 10.99 in total. How about it?</voice-transformation></speak>
+E4_C9_L5_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >No, thank you.</voice-transformation></speak>
+E4_C9_L6_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >I added your Cheese Burger Menu, would you like to order anything else?</voice-transformation></speak>
+E4_C9_L7_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >No, that's all.</voice-transformation></speak>
+E4_C9_L8_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Ok, it would be 9.50 in total, how will you pay it? Cash or credit card?</voice-transformation></speak>
+E4_C9_L9_A_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Credit card.</voice-transformation></speak>
+E4_C9_L10_S_TTS
+
+<speak version="1.0"><voice-transformation type="Custom" pitch=" 0 % " pitch_range ="10 % " rate ="-10 % " breathiness ="20 % " glottal_tension =" -20 % " >Your order will be ready in a minute, please visit us again.</voice-transformation></speak>
+E4_C9_L11_A_TTS
+

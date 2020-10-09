@@ -1,0 +1,44 @@
+# ===========================
+# Default Collab Ignore Rules
+# ===========================
+
+# OS Generated
+# ============
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+
+# Visual Studio / MonoDevelop generated
+# =====================================
+[Ee]xported[Oo]bj/
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# Unity generated
+# ===============
+[Oo]bj/
+[Bb]uild
+sysinfo.txt
+*.stackdump
+
+# My Excludes
+Assets\Models\louise
+Assets\Models\louise\*
+Assets\Models\louise\**
+Assets\0_SOUNDDB\E3
+Assets\0_SOUNDDB\E3\*
+Assets\0_SOUNDDB\E3\**
+Assets\0_SOUNDDB\E4
+Assets\0_SOUNDDB\E4\*
+Assets\0_SOUNDDB\E4\**

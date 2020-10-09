@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: dec341048eb6b62429ba6b782a806bcf
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: banner frontal
+    100002: base de cilindro
+    100004: base de cilindro001
+    100006: cajon arriba
+    100008: cuerpo de glass door
+    100010: Cylinder002
+    100012: Cylinder003
+    100014: gancho de parrillas
+    100016: gancho de parrillas001
+    100018: gancho de parrillas002
+    100020: gancho de parrillas003
+    100022: gancho de parrillas004
+    100024: gancho de parrillas005
+    100026: gancho de parrillas006
+    100028: gancho de parrillas007
+    100030: gancho de parrillas008
+    100032: gancho de parrillas009
+    100034: gancho de parrillas010
+    100036: gancho de parrillas011
+    100038: //RootNode
+    100040: Group001
+    100042: Group002
+    100044: interior
+    100046: Line001
+    100048: Line001 1
+    100050: Line002
+    100052: Line002 1
+    100054: Line003
+    100056: Line003 1
+    100058: Line004
+    100060: Line004 1
+    100062: Line005
+    100064: Line005 1
+    100066: Line006
+    100068: Line006 1
+    100070: Line007
+    100072: Line007 1
+    100074: Line008
+    100076: Line008 1
+    100078: Line009
+    100080: Line010
+    100082: Line011
+    100084: Line012
+    100086: Line013
+    100088: Line014
+    100090: Line015
+    100092: Line016
+    100094: Line017
+    100096: Line018
+    100098: Line019
+    100100: Line020
+    100102: Line021
+    100104: Line022
+    100106: Line023
+    100108: Line024
+    100110: Line025
+    100112: Line026
+    100114: Line027
+    100116: Line028
+    100118: Line029
+    100120: Line030
+    100122: Line031
+    100124: Line032
+    100126: Line033
+    100128: Line034
+    100130: Line035
+    100132: Line036
+    100134: Line037
+    100136: Line038
+    100138: Line039
+    100140: Line040
+    100142: Line041
+    100144: Line042
+    100146: Line043
+    100148: Line044
+    100150: Line045
+    100152: Line046
+    100154: Line047
+    100156: Line048
+    100158: Line049
+    100160: Line050
+    100162: Line051
+    100164: Line052
+    100166: Line053
+    100168: Line054
+    100170: Line055
+    100172: Line056
+    100174: Line057
+    100176: Line058
+    100178: Line059
+    100180: Line060
+    100182: Line061
+    100184: Line062
+    100186: Line063
+    100188: Line064
+    100190: Line065
+    100192: Line066
+    100194: Line067
+    100196: Line068
+    100198: Line069
+    100200: Line070
+    100202: Line071
+    100204: Line072
+    100206: Line073
+    100208: Line074
+    100210: Line075
+    100212: Line076
+    100214: Line077
+    100216: Line078
+    100218: Line079
+    100220: Line080
+    100222: Line081
+    100224: Line082
+    100226: Line083
+    100228: Line084
+    100230: Line085
+    100232: Line086
+    100234: Line087
+    100236: Line088
+    100238: Line089
+    100240: Line090
+    100242: Line091
+    100244: Line092
+    100246: Line093
+    100248: manilla
+    100250: PARRILLA
+    100252: parrilla
+    100254: parrilla001
+    100256: parrilla002
+    100258: placa
+    100260: puerta
+    100262: Rectangle001
+    100264: Rectangle002
+    100266: Rectangle003
+    100268: riel con gancho
+    100270: riel con gancho001
+    100272: riel con gancho002
+    100274: riel con gancho003
+    100276: rieles
+    100278: rieles001
+    100280: rieles002
+    100282: rieles003
+    100284: RUEDA
+    100286: RUEDA001
+    100288: RUEDA002
+    100290: RUEDA003
+    100292: TAPA SUP DE RUEDA
+    100294: TAPA SUP DE RUEDA001
+    100296: TAPA SUP DE RUEDA002
+    100298: TAPA SUP DE RUEDA003
+    100300: vidrio de puerta
+    400000: banner frontal
+    400002: base de cilindro
+    400004: base de cilindro001
+    400006: cajon arriba
+    400008: cuerpo de glass door
+    400010: Cylinder002
+    400012: Cylinder003
+    400014: gancho de parrillas
+    400016: gancho de parrillas001
+    400018: gancho de parrillas002
+    400020: gancho de parrillas003
+    400022: gancho de parrillas004
+    400024: gancho de parrillas005
+    400026: gancho de parrillas006
+    400028: gancho de parrillas007
+    400030: gancho de parrillas008
+    400032: gancho de parrillas009
+    400034: gancho de parrillas010
+    400036: gancho de parrillas011
+    400038: //RootNode
+    400040: Group001
+    400042: Group002
+    400044: interior
+    400046: Line001
+    400048: Line001 1
+    400050: Line002
+    400052: Line002 1
+    400054: Line003
+    400056: Line003 1
+    400058: Line004
+    400060: Line004 1
+    400062: Line005
+    400064: Line005 1
+    400066: Line006
+    400068: Line006 1
+    400070: Line007
+    400072: Line007 1
+    400074: Line008
+    400076: Line008 1
+    400078: Line009
+    400080: Line010
+    400082: Line011
+    400084: Line012
+    400086: Line013
+    400088: Line014
+    400090: Line015
+    400092: Line016
+    400094: Line017
+    400096: Line018
+    400098: Line019
+    400100: Line020
+    400102: Line021
+    400104: Line022
+    400106: Line023
+    400108: Line024
+    400110: Line025
+    400112: Line026
+    400114: Line027
+    400116: Line028
+    400118: Line029
+    400120: Line030
+    400122: Line031
+    400124: Line032
+    400126: Line033
+    400128: Line034
+    400130: Line035
+    400132: Line036
+    400134: Line037
+    400136: Line038
+    400138: Line039
+    400140: Line040
+    400142: Line041
+    400144: Line042
+    400146: Line043
+    400148: Line044
+    400150: Line045
+    400152: Line046
+    400154: Line047
+    400156: Line048
+    400158: Line049
+    400160: Line050
+    400162: Line051
+    400164: Line052
+    400166: Line053
+    400168: Line054
+    400170: Line055
+    400172: Line056
+    400174: Line057
+    400176: Line058
+    400178: Line059
+    400180: Line060
+    400182: Line061
+    400184: Line062
+    400186: Line063
+    400188: Line064
+    400190: Line065
+    400192: Line066
+    400194: Line067
+    400196: Line068
+    400198: Line069
+    400200: Line070
+    400202: Line071
+    400204: Line072
+    400206: Line073
+    400208: Line074
+    400210: Line075
+    400212: Line076
+    400214: Line077
+    400216: Line078
+    400218: Line079
+    400220: Line080
+    400222: Line081
+    400224: Line082
+    400226: Line083
+    400228: Line084
+    400230: Line085
+    400232: Line086
+    400234: Line087
+    400236: Line088
+    400238: Line089
+    400240: Line090
+    400242: Line091
+    400244: Line092
+    400246: Line093
+    400248: manilla
+    400250: PARRILLA
+    400252: parrilla
+    400254: parrilla001
+    400256: parrilla002
+    400258: placa
+    400260: puerta
+    400262: Rectangle001
+    400264: Rectangle002
+    400266: Rectangle003
+    400268: riel con gancho
+    400270: riel con gancho001
+    400272: riel con gancho002
+    400274: riel con gancho003
+    400276: rieles
+    400278: rieles001
+    400280: rieles002
+    400282: rieles003
+    400284: RUEDA
+    400286: RUEDA001
+    400288: RUEDA002
+    400290: RUEDA003
+    400292: TAPA SUP DE RUEDA
+    400294: TAPA SUP DE RUEDA001
+    400296: TAPA SUP DE RUEDA002
+    400298: TAPA SUP DE RUEDA003
+    400300: vidrio de puerta
+    2100000: 01 - Default
+    2100002: Vidrio_Vray_Realistic
+    2300000: banner frontal
+    2300002: base de cilindro
+    2300004: base de cilindro001
+    2300006: cajon arriba
+    2300008: cuerpo de glass door
+    2300010: Cylinder002
+    2300012: Cylinder003
+    2300014: gancho de parrillas
+    2300016: gancho de parrillas001
+    2300018: gancho de parrillas002
+    2300020: gancho de parrillas003
+    2300022: gancho de parrillas004
+    2300024: gancho de parrillas005
+    2300026: gancho de parrillas006
+    2300028: gancho de parrillas007
+    2300030: gancho de parrillas008
+    2300032: gancho de parrillas009
+    2300034: gancho de parrillas010
+    2300036: gancho de parrillas011
+    2300038: interior
+    2300040: Line001
+    2300042: Line002
+    2300044: Line003
+    2300046: Line004
+    2300048: Line005
+    2300050: Line006
+    2300052: Line007
+    2300054: Line008
+    2300056: PARRILLA
+    2300058: placa
+    2300060: puerta
+    2300062: rieles
+    2300064: rieles001
+    2300066: rieles002
+    2300068: rieles003
+    2300070: RUEDA
+    2300072: RUEDA001
+    2300074: RUEDA002
+    2300076: RUEDA003
+    2300078: TAPA SUP DE RUEDA
+    2300080: TAPA SUP DE RUEDA001
+    2300082: TAPA SUP DE RUEDA002
+    2300084: TAPA SUP DE RUEDA003
+    2300086: vidrio de puerta
+    3300000: banner frontal
+    3300002: base de cilindro
+    3300004: base de cilindro001
+    3300006: cajon arriba
+    3300008: cuerpo de glass door
+    3300010: Cylinder002
+    3300012: Cylinder003
+    3300014: gancho de parrillas
+    3300016: gancho de parrillas001
+    3300018: gancho de parrillas002
+    3300020: gancho de parrillas003
+    3300022: gancho de parrillas004
+    3300024: gancho de parrillas005
+    3300026: gancho de parrillas006
+    3300028: gancho de parrillas007
+    3300030: gancho de parrillas008
+    3300032: gancho de parrillas009
+    3300034: gancho de parrillas010
+    3300036: gancho de parrillas011
+    3300038: interior
+    3300040: Line001
+    3300042: Line002
+    3300044: Line003
+    3300046: Line004
+    3300048: Line005
+    3300050: Line006
+    3300052: Line007
+    3300054: Line008
+    3300056: PARRILLA
+    3300058: placa
+    3300060: puerta
+    3300062: rieles
+    3300064: rieles001
+    3300066: rieles002
+    3300068: rieles003
+    3300070: RUEDA
+    3300072: RUEDA001
+    3300074: RUEDA002
+    3300076: RUEDA003
+    3300078: TAPA SUP DE RUEDA
+    3300080: TAPA SUP DE RUEDA001
+    3300082: TAPA SUP DE RUEDA002
+    3300084: TAPA SUP DE RUEDA003
+    3300086: vidrio de puerta
+    4300000: TAPA SUP DE RUEDA003
+    4300002: RUEDA003
+    4300004: Line007
+    4300006: Line008
+    4300008: cajon arriba
+    4300010: banner frontal
+    4300012: interior
+    4300014: cuerpo de glass door
+    4300016: puerta
+    4300018: placa
+    4300020: TAPA SUP DE RUEDA002
+    4300022: RUEDA002
+    4300024: Line005
+    4300026: Line006
+    4300028: TAPA SUP DE RUEDA001
+    4300030: RUEDA001
+    4300032: Line003
+    4300034: Line004
+    4300036: TAPA SUP DE RUEDA
+    4300038: RUEDA
+    4300040: Line001
+    4300042: Line002
+    4300044: vidrio de puerta
+    4300046: PARRILLA
+    4300048: gancho de parrillas003
+    4300050: gancho de parrillas004
+    4300052: gancho de parrillas005
+    4300054: rieles001
+    4300056: gancho de parrillas006
+    4300058: gancho de parrillas007
+    4300060: gancho de parrillas008
+    4300062: rieles002
+    4300064: gancho de parrillas009
+    4300066: gancho de parrillas010
+    4300068: gancho de parrillas011
+    4300070: rieles003
+    4300072: base de cilindro001
+    4300074: Cylinder003
+    4300076: gancho de parrillas
+    4300078: gancho de parrillas001
+    4300080: gancho de parrillas002
+    4300082: rieles
+    4300084: base de cilindro
+    4300086: Cylinder002
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,6 +1,6 @@
 # Conversational-Agent-Framework
 
-A Conversational Agent Framework with Multi-modal Personality Expression(https://dl.acm.org/doi/10.1145/3439795)
+[A Conversational Agent Framework with Multi-modal Personality Expression](https://dl.acm.org/doi/10.1145/3439795)
 
 ```shell
 @article{sonlu2021conversational,
